@@ -1,4 +1,4 @@
-# Demo!gi
+# Demo
 ## Application Details
 |               |
 | ------------- |
